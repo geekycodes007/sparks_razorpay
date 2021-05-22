@@ -1,7 +1,7 @@
-# sparks_razorpay
+##### sparks_razorpay
 
 
-##### Build a simple website and included a payment intergeration
+#### Build a simple website and included a payment intergeration
 
 
 #### Hosted through 000webhost
